@@ -231,7 +231,7 @@
     <string name="network_connection_wifi">Wi-Fi</string>
     <string name="network_connection_ethernet">Ethernet</string>
     <string name="network_connection_offline">Εκτός σύνδεσης</string>
-    <string name="settings_debug">Debug</string>
+    <string name="settings_debug">Αποσφαλμάτωση</string>
     <string name="settings_debug_subtitle">Εργαλεία προγραμματιστή και σημαίες χαρακτηριστικών</string>
     <string name="settings_plugins_section_subtitle">Διαχείριση αποθετηρίων, παρόχων και καταστάσεων πρόσθετων</string>
     <string name="settings_account_section_subtitle">Κατάσταση λογαριασμού και συγχρονισμού</string>
@@ -649,7 +649,7 @@
     <string name="trakt_days_format">%1$d ημέρες</string>
 
     <!-- DebugSettingsScreen -->
-    <string name="debug_title">Debug</string>
+    <string name="debug_title">Αποσφαλμάτωση</string>
     <string name="debug_subtitle">Εργαλεία προγραμματιστή και σημαίες χαρακτηριστικών (μόνο σε debug builds)</string>
     <string name="debug_section_popup">Δοκιμές Popup / Διαλόγων</string>
     <string name="debug_playback_error_title">Οθόνη σφάλματος αναπαραγωγής</string>
@@ -828,8 +828,8 @@
     <string name="stream_info_size">Μέγεθος</string>
     <string name="stream_info_codec">Κωδικοποιητής</string>
     <string name="stream_info_resolution">Ανάλυση</string>
-    <string name="stream_info_frame_rate">Frame Rate</string>
-    <string name="stream_info_bitrate">Bitrate</string>
+    <string name="stream_info_frame_rate">Ρυθμός καρέ</string>
+    <string name="stream_info_bitrate">Ρυθμός bit</string>
     <string name="stream_info_channels">Κανάλια</string>
     <string name="stream_info_sample_rate">Ρυθμός δειγματοληψίας</string>
     <string name="stream_info_language">Γλώσσα</string>
@@ -863,7 +863,7 @@
     <!-- AudioDialog -->
     <string name="audio_dialog_title">Ήχος</string>
     <string name="audio_dialog_tab_tracks">Ήχος</string>
-    <string name="audio_dialog_tab_mix">Mix</string>
+    <string name="audio_dialog_tab_mix">Μίξη</string>
     <string name="audio_mix_label">Ενίσχυση (PCM)</string>
     <string name="audio_mix_value_db">%1$d dB</string>
     <string name="audio_mix_persist_on">Διατήρηση μεταξύ συνεδριών: ΕΝΕΡΓΟ</string>
@@ -1140,7 +1140,7 @@
     <string name="ratings_season_summary">Σεζόν %1$d - %2$d επεισόδια</string>
 
     <!-- SearchDiscoverSection -->
-    <string name="discover_title">Discover</string>
+    <string name="discover_title">Ανακάλυψη</string>
     <string name="discover_load_more">Φόρτωση περισσότερων</string>
     <string name="discover_loading">Φόρτωση…</string>
     <string name="discover_filter_type">Τύπος</string>
@@ -1149,7 +1149,7 @@
     <string name="discover_select_catalog">Επιλογή</string>
     <string name="discover_genre_default">Προεπιλογή</string>
     <string name="discover_empty_no_catalog_title">Επιλέξτε κατάλογο</string>
-    <string name="discover_empty_no_catalog_subtitle">Επιλέξτε κατάλογο Discover για περιήγηση</string>
+    <string name="discover_empty_no_catalog_subtitle">Επιλέξτε κατάλογο ανακάλυψης για περιήγηση</string>
     <string name="discover_empty_no_content_title">Δεν βρέθηκε περιεχόμενο</string>
     <string name="discover_empty_no_content_subtitle">Δοκιμάστε διαφορετικό είδος ή κατάλογο</string>
 
@@ -1174,7 +1174,7 @@
 
     <!-- SidebarNavigation / MainActivity -->
     <string name="nav_home">Αρχική</string>
-    <string name="nav_discover">Discover</string>
+    <string name="nav_discover">Ανακάλυψη</string>
     <string name="nav_search">Αναζήτηση</string>
     <string name="nav_library">Βιβλιοθήκη</string>
     <string name="nav_addons">Πρόσθετα</string>
